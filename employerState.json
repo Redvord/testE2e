@@ -1,0 +1,334 @@
+{
+  "cookies": [
+    {
+      "sameSite": "None",
+      "name": "_ym_uid",
+      "value": "165632513473267256",
+      "domain": ".rabota.space",
+      "path": "/",
+      "expires": 1687861134,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "_ym_d",
+      "value": "1656325134",
+      "domain": ".rabota.space",
+      "path": "/",
+      "expires": 1687861134,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "yandexuid",
+      "value": "6200306601656325134",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1971685134.243603,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "yuidss",
+      "value": "6200306601656325134",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1971685134.243679,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "yabs-sid",
+      "value": "2491833021656325134",
+      "domain": "mc.yandex.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "i",
+      "value": "+pAOYxb4HVS3rMBhMAdNdRQvI4lkQjiiacnbAfmUBg5/oHRcjCWXu4XstNtcmpYSYxNH6+ErhlZEtyLeoaZHO+vRYUY=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1971685134.243726,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "ymex",
+      "value": "1971685134.yrts.1656325134#1971685134.yrtsi.1656325134",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1687861134.243753,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".rabota.space",
+      "path": "/",
+      "expires": 1656397134,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "frontend:region",
+      "value": "spb%3A4",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1687882734,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_ym_visorc",
+      "value": "w",
+      "domain": ".rabota.space",
+      "path": "/",
+      "expires": 1656326934,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "frontend:rabota-id:v1",
+      "value": "62b9840e517134004981916647705889",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1687861143.189048,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "sid",
+      "value": "0LuQPGBSeA1YjKwcW4Bccl0u9by1aeyi",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1971901141,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "prsid",
+      "value": "48345061",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1658744343.189075,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "cmpid",
+      "value": "5595098",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1656411543.189104,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "AB_1",
+      "value": "1",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1658917143.188602,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "AB_1_pred",
+      "value": "1",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1658917143.18863,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "csrf",
+      "value": "6501a61a73d516bdc195ff1868fe2ff2060d1fc8",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "mded",
+      "value": "e",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1656411543.188683,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "user_tags",
+      "value": "%5B%7B%22id%22%3A64753236%2C%22add_date%22%3A%222022-06-27%22%2C%22name%22%3A%22use_vwo_service%22%7D%5D",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1687861143.189018,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "NPS_PAGE_COUNT_OLD_USER_COOKIE",
+      "value": "1",
+      "domain": ".saturn.rabota.space",
+      "path": "/",
+      "expires": 1664101143.189131,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "FTID",
+      "value": "1SFZhK2g6uIA:1656325143:0:::",
+      "domain": ".mail.ru",
+      "path": "/",
+      "expires": 1687947543.378122,
+      "httpOnly": true,
+      "secure": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://spb.saturn.rabota.space",
+      "localStorage": [
+        {
+          "name": "user-id_1.0.5_lr_lruid",
+          "value": "pQ8AABiEuWLVfPBwAYH1EAA="
+        },
+        {
+          "name": "_ym2020546_lsid",
+          "value": "18629507832"
+        },
+        {
+          "name": "_ym50981513_lsid",
+          "value": "121032238997"
+        },
+        {
+          "name": "cache:regions-domains:spb",
+          "value": "{\"expiredAtMs\":1656411534256,\"item\":{\"id\":4,\"name\":\"Санкт-Петербург\",\"name_case_loct\":\"Санкт-Петербурге\",\"name_case_gent\":\"Санкт-Петербурга\",\"domain\":\"spb\",\"tree_path_ids\":[4],\"type_id\":2,\"is_big_city\":true,\"has_subway\":true,\"geopoint\":{\"latitude\":59.939095,\"longitude\":30.315868},\"upper_regions\":[],\"paid_model_available\":true,\"request_id\":76609252},\"version\":null}"
+        },
+        {
+          "name": "_ym2020546:0_reqNum",
+          "value": "7"
+        },
+        {
+          "name": "tmr_lvid",
+          "value": "602ab52bbb02fd493f57e8cee46f5fc8"
+        },
+        {
+          "name": "tmr_lvidTS",
+          "value": "1656325143441"
+        },
+        {
+          "name": "_ym50981513:0_reqNum",
+          "value": "1"
+        },
+        {
+          "name": "v4:dictionaries:business_entity_types",
+          "value": "{\"expiredAtMs\":1814005135651,\"item\":[{\"id\":1,\"name\":\"ООО\"},{\"id\":2,\"name\":\"ЗАО\"},{\"id\":3,\"name\":\"ОАО\"},{\"id\":4,\"name\":\"ИП\"},{\"id\":5,\"name\":\"ТОО\"},{\"id\":6,\"name\":\"УП\"},{\"id\":7,\"name\":\"Общ. орг.\"},{\"id\":8,\"name\":\"Неком.орг.\"},{\"id\":9,\"name\":\"Гос. учр.\"},{\"id\":10,\"name\":\"ПАО\"},{\"id\":11,\"name\":\"АО\"}],\"version\":2}"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"165632513473267256\""
+        },
+        {
+          "name": "_ym_wv2rf:2020546:0",
+          "value": "1"
+        },
+        {
+          "name": "tmr_reqNum",
+          "value": "1"
+        },
+        {
+          "name": "_ym_retryReqs",
+          "value": "{}"
+        }
+      ]
+    },
+    {
+      "origin": "https://widgets-2-omni-iframe.livetex.me",
+      "localStorage": [
+        {
+          "name": "lt-19487-app-page-visit-time",
+          "value": "{\"data\":\"0|number1656325136315\"}"
+        },
+        {
+          "name": "lt-19487-app-page-page-count",
+          "value": "{\"data\":\"1|number1\"}"
+        },
+        {
+          "name": "lt-19487-all-ids",
+          "value": "account:17194:site:19487:visitor:5dsjqfckppqtzkt9"
+        },
+        {
+          "name": "lt-19487-app-state-state",
+          "value": "{\"data\":\"0|stringLabel\"}"
+        },
+        {
+          "name": "lt-19487-tab",
+          "value": "hide-invite"
+        },
+        {
+          "name": "lt-19487-app-page-seo-query",
+          "value": "{\"data\":\"1|string\"}"
+        },
+        {
+          "name": "lt-19487-dialog-dialog-status",
+          "value": "{\"data\":\"1|stringnot-opened\"}"
+        },
+        {
+          "name": "lt-19487-scripts-invite-shown",
+          "value": "{\"data\":\"1|number0\"}"
+        },
+        {
+          "name": "lt-19487-app-page-visit-count",
+          "value": "{\"data\":\"0|number1\"}"
+        },
+        {
+          "name": "lt-19487-app-page-page-time",
+          "value": "{\"data\":\"1|number1656325136320\"}"
+        },
+        {
+          "name": "lt-19487-visitor-id",
+          "value": "5dsjqfckppqtzkt9"
+        },
+        {
+          "name": "lt-19487-scripts-prsh-window",
+          "value": "{\"data\":\"1|number0\"}"
+        },
+        {
+          "name": "lt-19487-scripts-prsh-button",
+          "value": "{\"data\":\"1|number0\"}"
+        },
+        {
+          "name": "lt-jsonp-data",
+          "value": "{\"data\":\"{\\\"lt-io\\\":{\\\"domain\\\":\\\"\\\",\\\"value\\\":\\\"io1-production-2-ltx227.livetex.ru\\\"},\\\"129y1ix\\\":{\\\"domain\\\":\\\"livetex.ru\\\",\\\"value\\\":\\\"io:io-1-ltx227-livetex-ru:session:17z3nr754mpqahziwwmi\\\"}}\",\"time\":1657534736188}"
+        }
+      ]
+    }
+  ]
+}
